@@ -1,5 +1,9 @@
 # JavaCampLessons
 
+# Coffee Customer Management (Gun4 Odev2)
+Kahve dükkanları için müşteri kaydetme & Mernis (Kimlik Doğrulama) entegrasyonu
+
+
 # Gun3 Odev
 Kodlama.io projesini yazdığınızı düşünelim.
 
