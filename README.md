@@ -20,6 +20,15 @@ Gereksinimler:
 # Coffee Customer Management (Gun4 Odev2)
 Kahve dükkanları için müşteri kaydetme & Mernis (Kimlik Doğrulama) entegrasyonu
 
+Mernis Entegrasyonu:
+- Projeye sağ tıkla new -> other -> web şeklinde arat -> web service client
+- Service definition için link (sonunda wsdl parametresi geçilmeli) : https://tckimlik.nvi.gov.tr/Service/KPSPublic.asmx?wsdl
+- Finish deyince eklenecek.
+
+projemizi javaSE-15 ile compile ediyorsak eklenen servis hata verecektir. Bunun için
+projeye sağ tıklayıp
+properties -> Java Compiler -> Use compliance from.. tikini kaldırıp -> 1.8 'i seçilmeli.
+
 
 # Gun3 Odev
 Kodlama.io projesini yazdığınızı düşünelim.
@@ -29,7 +38,6 @@ User, Instructor, Student nesnelerini modelleyiniz. (Class-Inheritance)
 UserManager, InstructorManager, StudentManager için sistemde olabilecek operasyonları tahminleyip modelleyiniz. (Class-Inheritance-Method)
 
 Kural -- Sadece gördüğümüz konulardan yararlanmalısınız.
-
 
 # Gun2 Odev
 Kodlama.io sitesine gidiniz.
