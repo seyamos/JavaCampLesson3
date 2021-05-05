@@ -4,7 +4,7 @@ public class Main {
 
 	public static void main(String[] args) {		
 		
-		Course course1 = new Course(1, "C#");
+		Course course1 = new Course(1, "C# ");
 		Course course2 = new Course(2, "Java");
 		Course course3 = new Course(3, "Python");
 		Course course4 = new Course(4, "C++");
