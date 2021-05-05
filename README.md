@@ -1,6 +1,6 @@
 # JavaCampLessons
 
-# Game Management Project (Gun4 Odev2)
+# Game Management Project (Gun4 Odev3)
 
 Bir oyun yazmak istiyorsunuz. Bu yazılım için backend kodlarını JAVA ile geliştirmeyi planlıyoruz.
 Yeni üye, satış ve kampanya yönetimi yapılması isteniyor. 
