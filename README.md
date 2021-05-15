@@ -16,23 +16,25 @@ Aşağıda bir e-ticaret sisteminde sisteme kayıt ve sisteme giriş için gerek
   
   E-Posta daha önce kullanılmamış olmalıdır.
   
-   Ad ve soyad en az iki karakterden oluşmalıdır.
+    Ad ve soyad en az iki karakterden oluşmalıdır.
   
-   Üyelik sonucu kullanıcıya doğrulama e-postası gönderilmelidir. (Simulasyon)
+     Üyelik sonucu kullanıcıya doğrulama e-postası gönderilmelidir. (Simulasyon)
   
-   Doğrulama linki tıklandığında üyelik tamamlanmalıdır. (Simulasyon)
+    Doğrulama linki tıklandığında üyelik tamamlanmalıdır. (Simulasyon)
   
-   Hatalı veya başarılı durumda kullanıcı bilgilendirilmelidir.
+    Hatalı veya başarılı durumda kullanıcı bilgilendirilmelidir.
 
 **Kullanıcılar sisteme Google hesapları ile üye olabilmelidir. (Simulasyon)**
-  İlerleyen zamanlarda başka yetkilendirme servisleri de kullanılabilir. (Sistemi dış servis entegrasyonu olacak şekilde yapılandırınız.)
+
+    İlerleyen zamanlarda başka yetkilendirme servisleri de kullanılabilir. (Sistemi dış servis entegrasyonu olacak şekilde yapılandırınız.)
   
-  Hatalı veya başarılı durumda kullanıcı bilgilendirilmelidir.
+    Hatalı veya başarılı durumda kullanıcı bilgilendirilmelidir.
 
 **Kullanıcılar e-posta ve parola bilgisiyle sisteme giriş yapabilmelidir.**
-  E-posta ve parola zorunludur
   
-  Hatalı veya başarılı durumda kullanıcı bilgilendirilmelidir.
+    E-posta ve parola zorunludur
+  
+    Hatalı veya başarılı durumda kullanıcı bilgilendirilmelidir.
   
 **Bu isterleri katmanlı mimaride simüle ediniz.
 Kısıt : Hiç bir ek paket kullanmayınız. Tamamen gördüklerimizden ilerleyiniz.**
